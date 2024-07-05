@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1, h2, h3 {
+    color: #333;
+  }
+  
+  #number-facts p, #card-display p {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 5px 0;
+  }
+  
